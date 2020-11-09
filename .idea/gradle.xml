@@ -12,14 +12,20 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Problems/A small version of the Battleship game" />
             <option value="$PROJECT_DIR$/Problems/Barista problem" />
+            <option value="$PROJECT_DIR$/Problems/Beyond the word" />
             <option value="$PROJECT_DIR$/Problems/City population" />
             <option value="$PROJECT_DIR$/Problems/Delegation" />
             <option value="$PROJECT_DIR$/Problems/Fabric manufacture" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/Fridge" />
             <option value="$PROJECT_DIR$/Problems/Frozen desserts" />
+            <option value="$PROJECT_DIR$/Problems/Getting letters from the Alphabet" />
             <option value="$PROJECT_DIR$/Problems/Last digit" />
+            <option value="$PROJECT_DIR$/Problems/The max of two numbers without else-branch" />
             <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/Unique characters" />
             <option value="$PROJECT_DIR$/Problems/Weather comparison" />
             <option value="$PROJECT_DIR$/util" />
           </set>
