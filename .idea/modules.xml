@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper.Minesweeper-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Barista problem/Minesweeper.Problems-Barista_problem.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Barista problem/Minesweeper.Problems-Barista_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/City population/Minesweeper.Problems-City_population.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/City population/Minesweeper.Problems-City_population.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Delegation/Minesweeper.Problems-Delegation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Minesweeper.Problems-Fabric_manufacture.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fabric manufacture/Minesweeper.Problems-Fabric_manufacture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fridge/Minesweeper.Problems-Fridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Frozen desserts/Minesweeper.Problems-Frozen_desserts.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Frozen desserts/Minesweeper.Problems-Frozen_desserts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Last digit/Minesweeper.Problems-Last_digit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Triples/Minesweeper.Problems-Triples.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Triples/Minesweeper.Problems-Triples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Weather comparison/Minesweeper.Problems-Weather_comparison.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Minesweeper.util.iml" />
+    </modules>
+  </component>
+</project>
